@@ -38,4 +38,4 @@ O projeto foi desenvolvido do zero utilizando **HTML**, **CSS** e **Javascript**
 
 ## Demonstração
 
-Acesse o projeto: https://guissz.github.io/To-Do-list/
+Acesse o projeto: https://guissz.github.io/To-Do-List/
